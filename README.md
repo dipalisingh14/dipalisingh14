@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Heyo, I am Dipali. I like to code :) 
 
-![image](https://github.com/dipalisingh14/dipalisingh14/blob/main/dino.gif)
+![image](https://github.com/dipalisingh14/dipalisingh14/blob/main/code.gif)
