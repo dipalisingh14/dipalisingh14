@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am student at SRM University Kattankulathur, currently pursuing CSE with specialization in Cyber Security. 
+Heyo, I am Dipali. I like to code :) 
 
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/dipali-singh-aa3396195/
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
